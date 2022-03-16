@@ -1,0 +1,25 @@
+{
+  "name": "web-screenshot",
+  "version": "1.0.0",
+  "description": "an easy screenshot tool that uses selenium",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1",
+    "chromedriver": "^99.0.0"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://github.com/iamashley0/web-screenshot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "poketube",
+    "privite",
+    "ytdl"
+  ]
+}
